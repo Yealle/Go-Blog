@@ -1,0 +1,18 @@
+[viewer]
+    Title = "Blog"
+    Description = "startnow"
+    Logo = "/resource/images/logo_2.png"
+    Navigation = ["首页","/", "GO语言","/golang", "归档","/pigeonhole", "关于","/about"]
+    Bilibili = "https://space.bilibili.com/473844125"
+    Zhihu = "https://www.zhihu.com/people/ma-shen-zhi-lu"
+    Avatar = "https://picx.zhimg.com/v2-a54e24e0e088579b2b5d5e43490d4818_r.jpg?source=1940ef5c"
+    UserName = "momi"
+    UserDesc = "bbb"
+[system]
+    CdnURL = "https://static.mszlu.com/goblog/es6/md-assets"
+    QiniuAccessKey = "d1sGMDPZmbTqqsap_IC21FfhuzoMM2OpJztMOcae"
+    QiniuSecretKey = "2PgfEzsL40iE25yNDarRPnqzzHtVEC507cObiKKA"
+    Valine = true
+    ValineAppid = "rDiKOTr4bnkjim0ShvmeOVo1-9Nh9j0Va"
+    ValineAppkey = "55Mp6c6dkLIFZZvEEH93QbGW"
+    ValineServerURL = "https://rdikotr4.lc-cn-e1-shared.com"
